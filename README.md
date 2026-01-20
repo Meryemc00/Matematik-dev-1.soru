@@ -1,7 +1,10 @@
 # Matematik-odev-1.soru
 Meryem Cevahiroğlu
+
 2507020080
+
 Bilgisayar Mühendisliği
+
 İkinci dereceden denklemlerin köklerini diskriminant yöntemiyle hesaplayan C++ programı.
 
 <img width="1002" height="496" alt="Ekran Görüntüsü (6)" src="https://github.com/user-attachments/assets/f7022952-ff08-4b1a-a570-3ff3c5b06641" />
