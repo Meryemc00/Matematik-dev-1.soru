@@ -38,5 +38,6 @@ delta>0      <img width="938" height="488" alt="Ekran Görüntüsü (21)" src="h
 
 
 a=0 olduğunda ikinci dereceden denklem olma özellğini yitirir.Bunun için program aşağıda da göründüğü gibi a'yı sıfır kabul etmez ve tekrar bir değer ister.
+
 <img width="654" height="437" alt="Ekran Görüntüsü (25)" src="https://github.com/user-attachments/assets/b128b80b-e13d-4a0e-8c75-246abc327f0e" />
 
