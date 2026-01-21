@@ -1,7 +1,9 @@
 # Matematik-odev-1.soru
-Meryem Cevahiroğlu
-2507020080
-Bilgisayar Mühendisliği
+AD-SOYAD: Meryem Cevahiroğlu
+
+ÖĞRENCİ NO: 2507020080
+
+BÖLÜM: Bilgisayar Mühendisliği
 
 İkinci dereceden denklemlerin köklerini bilgisayar ortamında hesaplayan C++ programı.
 
@@ -9,6 +11,9 @@ Bilgisayar Mühendisliği
 
 <img width="832" height="421" alt="Ekran Görüntüsü (18)" src="https://github.com/user-attachments/assets/2cb2c87f-5de4-4016-b67d-19151bad43bb" />
 
+
+Bu çalışmada, ax^2 + bx + c = 0 genel formundaki ikinci dereceden denklemlerin çözüm kümesini bulmak için Diskriminant (Delta) yöntemini kullandık.
+Matematiksel formülleri algoritmaya dökerek, deltanın durumuna göre (pozitif, sıfır veya negatif) denklemin köklerinin varlığını sorgulayacak ve reel kök değerlerini hesaplayacağız
 
 
 Programın işleyişinin adımları:
@@ -23,7 +28,7 @@ Programın işleyişinin adımları:
 4.ADIM: Denklemin köklerinin varlığını belirlemek için önce delta değerini hesapladık. (KOD:(b*b)-(4*a*c)).
 
 5.ADIM: IF ve ELSE ile delta sonucnu 3 yolla koşula bağladık. 
-        delta<0 (kök yok)  delta=0(tek kök var)  delta>0(2 kök var)  
+        delta<0 (kök yok) , delta=0(tek kök var) , delta>0(2 kök var)  
         
 delta<0 :   <img width="968" height="517" alt="Ekran Görüntüsü (20)" src="https://github.com/user-attachments/assets/072598a0-e680-490f-95bc-0596380d185e" />
 
