@@ -16,8 +16,11 @@ Programın işleyişinin adımları:
 #include <cmath>: Bunu ekledik çünkü formülümüzde karekök alma işlemi vardı. C++ karekök almayı doğuştan bilmez, bu kütüphane sayesinde sqrt() komutunu kullanabildik.
 
 2.ADIM: İnt yerine double kullandık çünkü  -> Double (ondalıklı sayı) kullanarak sonucun hassas ve doğru çıkmasını garantiledik.
+
 3.ADIM: Kullanıcıdan a sayısı istedik. Matematiksel olarak x karenin katsayısı sıfır olmaz.Programın hata vermemesi için WHİLE(a==0) döngüsü kurduk.Bu sayede kullanıcı verisini doğru girmeye zorladık.
+
 4.ADIM: Denklemin köklerinin varlığını belirlemek için önce delta değerini hesapladık. (KOD:(b*b)-(4*a*c)).
+
 5.ADIM: IF ve ELSE ile delta sonucnu 3 yolla koşula bağladık. 
         delta<0 (kök yok)  delta=0(tek kök var)  delta>0(2 kök var)  
         
