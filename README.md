@@ -10,8 +10,9 @@ Bilgisayar Mühendisliği
 <img width="832" height="421" alt="Ekran Görüntüsü (18)" src="https://github.com/user-attachments/assets/2cb2c87f-5de4-4016-b67d-19151bad43bb" />
 
 
-İ
+
 Programın işleyişinin adımları:
+
 1.ADIM: #include <iostream>: Bunu ekledik çünkü bilgisayarla konuşmamız (ekrana yazı yazmamız cout ve klavyeden veri almamız cin) gerekiyordu.
 #include <cmath>: Bunu ekledik çünkü formülümüzde karekök alma işlemi vardı. C++ karekök almayı doğuştan bilmez, bu kütüphane sayesinde sqrt() komutunu kullanabildik.
 
