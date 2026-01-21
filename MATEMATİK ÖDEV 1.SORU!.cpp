@@ -16,7 +16,7 @@ int main() {
 	
 	while ( a ==0 ) {
 		cout << "Hata: a katsayisi 0 olamaz! (0 olursa 2.dereceden denklem olmaz) " << endl;
-		cout << "Lütfen a degerini tekrar giriniz: ";
+		cout << "Lutfen a degerini tekrar giriniz: ";
 		cin>> a;	
 	}
 	cout << " b katsayisi giriniz: ";
@@ -48,4 +48,5 @@ int main() {
 	 return 0;
 	 
 	 
+
 }
